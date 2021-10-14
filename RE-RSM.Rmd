@@ -1,0 +1,15 @@
+---
+title: "Random Effect Rating Scale Model"
+author: "Chun Hsien Wu"
+date: "2021年10月14日"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### Rating Scale Model(RSM,1978)
+$$
+log(\frac{P_{nij}} {P_{ni(j-1)}}) = \theta_n -(\delta_i + \tau_j)
+$$
