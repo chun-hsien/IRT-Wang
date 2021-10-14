@@ -1,2 +1,2 @@
 # IRT-Wang
-Wang Wen Chung papaer
+Wang Wen Chung paper
